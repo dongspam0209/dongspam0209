@@ -66,7 +66,7 @@
 <h3>🤙 please contact 🤙</h3>
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/VELOG-20232a.svg?style=for-the-badge&logo=VELOG&logoColor=99CCFF" /> <img src="https://img.shields.io/badge/iankim010209@gmail.com-20232a.svg?style=for-the-badge&logo=gmail&logoColor=CC99FF" />
+<img src="https://img.shields.io/badge/VELOG-20232a.svg?style=for-the-badge&logo=VELOG&logoColor=99CCFF" /> <img src="https://img.shields.io/badge/iankim010209@gmail.com-20232a.svg?style=for-the-badge&logo=gmail&logoColor=CC99FF" /> 
 </div>
 
 <p align="center">
