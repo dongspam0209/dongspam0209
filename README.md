@@ -38,21 +38,22 @@
 <div align="center">
 <h3>📖 I'm studying 📖</h3>
 </div>
-
 <div align="center">
-   <h4>🤖 Reinforcement Learning</h4>
-</div>
-
-<div align="center">
-   <h4>🕸️ Deep Learning</h4>
-</div>
-
-<div align="center">
-  <h4>🗣️ Natural Language Processing</h4>
-</div>
-
-<div align="center">
-  <h4>📷 Digital Image Processing</h4>
+<table style="border: none">
+  <tr>
+    <td valign="top" style="border: none">
+         <h4>🤖 Reinforcement Learning</h4>
+         <h4>🕸️ Deep Learning</h4>
+         <h4>🗣️ Natural Language Processing</h4>
+        <h4>📷 Digital Image Processing</h4>
+    </td>
+    <td valign="top" style="border: none">
+      <a href="https://solved.ac/donghankim01">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=donghankim01" align="right" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
