@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
- <h3>💡 tech stack 💡</h3>
+ <h3>💡 my tech stacks 💡</h3>
 </div>
 
 
 <div align="center">
-<img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=python&logoColor=FFCC00" />
+<img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=python&logoColor=FFCC00" /> <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=c%2B%2B&logoColor=99CCFF" />
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-<h3>🪛 tool 🪛</h3>
+<h3>🪛 my development tools 🪛</h3>
 </div>
 
 <div align="center">
@@ -30,39 +30,43 @@
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Jupyter-20232a.svg?style=for-the-badge&logo=jupyter&logoColor=99CCFF" /> <img src="https://img.shields.io/badge/Colab-20232a.svg?style=for-the-badge&logo=googlecolab&logoColor=CC99FF" />
+<img src="https://img.shields.io/badge/Jupyter-20232a.svg?style=for-the-badge&logo=jupyter&logoColor=FF9933" /> <img src="https://img.shields.io/badge/Colab-20232a.svg?style=for-the-badge&logo=googlecolab&logoColor=FFFF00" />
 </div>
 
 ---
 
 <div align="center">
-<h3>📖 studying 📖</h3>
-</div>
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/reinforcement-learning.png" alt="Reinforcement Learning" /> Reinforcement Learning
+<h3>📖 I'm studying 📖</h3>
 </div>
 
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/deep-learning.png" alt="Deep Learning" /> Deep Learning
+   <h4>🤖 Reinforcement Learning</h4>
 </div>
 
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/natural-language-processing.png" alt="Natural Language Processing" /> Natural Language Processing
+   <h4>🕸️ Deep Learning</h4>
 </div>
 
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/digital-image-processing.png" alt="Digital Image Processing" /> Digital Image Processing
+  <h4>🗣️ Natural Language Processing</h4>
+</div>
+
+<div align="center">
+  <h4>📷 Digital Image Processing</h4>
 </div>
 
 ---
   
 <div align="center">
-<h3>🤙 contact 🤙</h3>
+<h3>🤙 please contact 🤙</h3>
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/VELOG-20232a.svg?style=for-the-badge&logo=VELOG&logoColor=99CCFF" /> <img src="https://img.shields.io/badge/iankim010209@gmail.com-20232a.svg?style=for-the-badge&logo=gmail&logoColor=CC99FF" />
 </div>
 
-  ![dongspam0209's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongspam0209&show_icons=true&theme=radical&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongspam0209&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dongspam0209&show_icons=true&theme=radical&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongspam0209&layout=compact" />
+</p>
 
 
