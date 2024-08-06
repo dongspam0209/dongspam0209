@@ -46,7 +46,7 @@
 
 #### 🤖 Reinforcement Learning
 #### 🕸️ Deep Learning
-#### 🗣️ Natural Language Processing
+#### 🗣️ NLP
 #### 📷 Digital Image Processing
 
 </td>
